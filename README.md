@@ -27,6 +27,6 @@ a. assgn5a.c
 b. assgn5b.c
 
 Assignment-6
-a. assgn6a.c
+a. assgn6a-BINARY.c and assgn6a-COUNTING.c
 b. assgn6b.c
 c. assgn6c.c

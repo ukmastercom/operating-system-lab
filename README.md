@@ -34,3 +34,6 @@ c. assgn6c.c
 Assignment-7
 a. assgn7a.c
 b. assgn7b.c
+
+Assignment-8
+a. assgn8.c

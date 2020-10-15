@@ -45,3 +45,5 @@ Assignment-10
 a. assgn10_fcfs.c
 b. assgn10_priority.c
 c. assgn10_roundrobin.c
+d. assgn10_preemptive.c
+e. assgn10_nonpreemptive.c

@@ -40,3 +40,8 @@ a. assgn8.c
 
 Assignment-9
 a. assgn9.c
+
+Assignment-10
+a. assgn10_fcfs.c
+b. assgn10_priority.c
+c. assgn10_roundrobin.c
